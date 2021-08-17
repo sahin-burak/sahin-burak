@@ -1,4 +1,5 @@
-  <h1>Burak Sahin</h1>
+<h1 align="center">Burak Şahin</h1>
+
 <p align="center">
   <img src="https://www.dijitalplatform.org/images/intro-image.png" width="400"><br>
 
